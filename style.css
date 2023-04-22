@@ -1,0 +1,135 @@
+body
+{
+    
+    background: url("https://cdn.pixabay.com/photo/2017/02/16/19/47/bokeh-2072271__480.jpg"); 
+    background-size: 100%;
+
+     
+}
+
+.container
+{
+    background-color: transparent;
+    width: 600px;
+    height: 1080px;
+    padding: 25px;
+    margin: 50px auto 0;
+    border-radius: 10px;
+    border-top: 10px black;
+    box-shadow: 0 0 10px 7px rgba(0,0,0,0.5);
+    border-width: 10px;
+    border-color: darkmagenta
+
+    
+}
+.container h1
+{
+ font-size: 35px;
+ line-height: 35px;
+ text-align: center;
+ 
+
+}
+.input-details
+{
+    background-color:magenta;
+    border-color:black ;
+    height: 50px;
+    
+}
+.input-name
+{
+    width: 105%;
+    position: relative;
+    margin: 10px auto;
+    border-radius: 10px;
+
+
+}
+
+.input-name i
+{
+    position: absolute;
+    font-size: 35px;
+    padding: 0 15px;
+    
+    
+}
+.input-value
+{
+    background-color: plum;
+    height: 30px;
+
+}
+
+.input-bg
+{
+    background-color: pink;
+    margin-top: 20px;
+    height: 140px;
+    
+}
+.input-bgc
+{
+    background-color: pink;
+    margin-top: 20px;
+    height: 270px;
+}
+.input-location
+{
+ border-radius: 5px;   
+ padding: 8px 0 8px 40px;
+ width: 220%;
+ padding: 0 15px;
+ border-right: 2px solid #cccccc;
+ height: 40px;
+ margin-top: 15px;
+}
+.name 
+{
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    height: 40px;
+    width: 40%;
+    
+}
+.name:hover 
+{
+background-color: rgb(224, 211, 211);
+}
+
+.radio-button
+{
+    text-align: center;
+    font-size: 1000px;
+   
+}
+.button{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 8px;
+    cursor: pointer;
+    position: relative;
+    font-size: large;
+    margin-top: 250px;
+    margin-bottom: 30px;
+}
+.input-location i
+{
+    position: 50px;
+    font-size: 40px;
+}
+.radio-button i
+{
+    position: absolute;
+    font-size: 50px;
+    color: darkmagenta;
+}
+.buttonload {
+    background-color: darkmagenta;
+    border: none; 
+    color: white;
+    padding: 12px 24px; 
+    font-size: 16px; 
+  }
+  
